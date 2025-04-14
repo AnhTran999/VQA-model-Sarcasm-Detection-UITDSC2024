@@ -1,4 +1,4 @@
-# VINTERN 1b
+# VINTERN 1B
 
 ## Cấu trúc các file
 - `a_up_sample.ipynb`: 
